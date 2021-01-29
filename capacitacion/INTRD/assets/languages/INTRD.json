@@ -1,0 +1,37 @@
+{
+	"INTRD": {
+		"LBL": {
+			"LBL_INTRD_ACTIVIDCA_21243": "Actividad actual",
+			"LBL_INTRD_APELLIDOO_81308": "Apellido",
+			"LBL_INTRD_CUENTADII_35202": "Cuenta de destino",
+			"LBL_INTRD_CUENTAONI_82692": "Cuenta de origen",
+			"LBL_INTRD_ESTADOCIV_51109": "Estado civil",
+			"LBL_INTRD_INGRESEON_37299": "Ingrese el segundo n\u00famero",
+			"LBL_INTRD_INGRESEPP_37296": "Ingrese el primer n\u00famero",
+			"LBL_INTRD_LIMPIARIH_29511": "Limpiar",
+			"LBL_INTRD_LISTAVARR_90037": "Lista de valores",
+			"LBL_INTRD_NMERO1TVN_76269": "N\u00famero 1",
+			"LBL_INTRD_NMERO2YQP_65547": "N\u00famero 2",
+			"LBL_INTRD_NMEROCUTE_33088": "N\u00famero de Cuenta",
+			"LBL_INTRD_NOMBRECEO_93151": "Nombre Completo",
+			"LBL_INTRD_NOMBREQMZ_29565": "Nombre",
+			"LBL_INTRD_OKOPQXLTS_55681": "OK",
+			"LBL_INTRD_REALIZARF_48561": "Realizar transferencia",
+			"LBL_INTRD_RESPUESAT_22881": "Respuesta",
+			"LBL_INTRD_RESTAURAA_42722": "Restaurar",
+			"LBL_INTRD_RESULTARA_17666": "Resultado de la suma de los n\u00fameros 1 y 2",
+			"LBL_INTRD_SALDOLAIN_80800": "Saldo de la cuenta de origen",
+			"LBL_INTRD_SALDONSFA_36354": "Saldo",
+			"LBL_INTRD_SUMALOS11_75415": "Suma los n\u00fameros 1 y 2",
+			"LBL_INTRD_SUMARNFLV_71558": "Sumar",
+			"LBL_INTRD_TRANSFERR_23893": "Transferir",
+			"LBL_INTRD_VALORATAS_58958": "Valor a transferir",
+			"LBL_INTRD_VALORBICU_71659": "Valor",
+			"LBL_INTRD_VALORLAFC_69800": "Valor de la transferencia"
+		},
+		"MSG": {
+			"MSG_INTRD_DEBEINGFA_18176": "Debe ingresar una cantidad para transferir",
+			"MSG_INTRD_DEBEINGRS_53802": "Debe ingresar un n\u00famero"
+		}
+	}
+}

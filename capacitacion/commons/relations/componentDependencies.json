@@ -1,0 +1,155 @@
+{
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CUENTADSO_114": {
+			"labels": [
+			]
+		},
+		"EN_CUENTAOGN_126": {
+			"labels": [
+			]
+		},
+		"EN_DATOSVOOX_575": {
+			"labels": [
+			]
+		},
+		"EN_PERSONA11_477": {
+			"labels": [
+			]
+		},
+		"EN_PERSONAZP_975": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_INTRDNGCSLZFG_124": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAZP_975": [
+					"AT33_NOMBRETM975",
+					"AT41_APELLIDO975",
+					"AT87_NOMBREPY975"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_APELLIDOO_81308",
+				"LBL_INTRD_LIMPIARIH_29511",
+				"LBL_INTRD_NOMBRECEO_93151",
+				"LBL_INTRD_NOMBREQMZ_29565",
+				"LBL_INTRD_OKOPQXLTS_55681"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDNYKPRUAR_940": {
+			"blis": [
+			],
+			"entities": {
+				"EN_DATOSVOOX_575": [
+					"AT12_NUMERO22575",
+					"AT28_RESPUEAA575",
+					"AT96_NUMERO11575"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_INGRESEON_37299",
+				"LBL_INTRD_INGRESEPP_37296",
+				"LBL_INTRD_LIMPIARIH_29511",
+				"LBL_INTRD_NMERO1TVN_76269",
+				"LBL_INTRD_NMERO2YQP_65547",
+				"LBL_INTRD_RESPUESAT_22881",
+				"LBL_INTRD_RESULTARA_17666",
+				"LBL_INTRD_SUMALOS11_75415",
+				"LBL_INTRD_SUMARNFLV_71558",
+				"MSG_INTRD_DEBEINGRS_53802"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDPTRQKSEC_909": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONA11_477": [
+					"AT21_LISTAVRE477",
+					"AT42_ESTADOII477",
+					"AT97_ACTIVIDD477"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_ACTIVIDCA_21243",
+				"LBL_INTRD_ESTADOCIV_51109",
+				"LBL_INTRD_LISTAVARR_90037",
+				"LBL_INTRD_RESTAURAA_42722"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDSJVCYYEN_431": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CUENTADSO_114": [
+					"AT48_NUMEROEA114",
+					"AT53_SALDOLYD114"
+				],
+				"EN_CUENTAOGN_126": [
+					"AT17_VALORSWP126",
+					"AT56_NUMEROUE126",
+					"AT90_SALDOYBE126"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_CUENTADII_35202",
+				"LBL_INTRD_CUENTAONI_82692",
+				"LBL_INTRD_NMEROCUTE_33088",
+				"LBL_INTRD_REALIZARF_48561",
+				"LBL_INTRD_SALDOLAIN_80800",
+				"LBL_INTRD_SALDONSFA_36354",
+				"LBL_INTRD_TRANSFERR_23893",
+				"LBL_INTRD_VALORATAS_58958",
+				"LBL_INTRD_VALORLAFC_69800",
+				"MSG_INTRD_DEBEINGFA_18176"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
+}
